@@ -3,7 +3,7 @@
 - 🔭 Eu trabalho com aulas de robótica
 - 🌱 Eu estudo sobre: HTML/CSS/JAVASCRIPT
 - 📫 Me ache em: carvalho.guilhermer@gmail.com
-- 😄 Pronomes: Ele/Dele
+- 👨🏾‍💻 Linkedin: https://www.linkedin.com/in/guilherme-cr/
 - ⚡ Fato curioso: Não tenho animais, atualmente pai de planta (eu tento, algumas morrem)
 
 <div align="center">
